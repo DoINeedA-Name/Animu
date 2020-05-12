@@ -9,7 +9,7 @@ export default class extends Command {
       runIn: ['text'],
       requiredPermissions: ['EMBED_LINKS'],
       cooldown: 5,
-      description: 'Cuddle with someone',
+      description: 'High-five OwO',
       usage: '<member:member>',
     });
   }
